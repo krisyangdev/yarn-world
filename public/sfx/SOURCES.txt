@@ -1,0 +1,47 @@
+All clips are CC0 (public domain) previews from freesound.org, cut and normalized for this project.
+
+bleat      https://freesound.org/s/182509/  Lamb and Mother
+bleat      https://freesound.org/s/692899/  Lambs bleating
+bleat      https://freesound.org/s/692898/  Twin Lambs Baa-ing
+bleat      https://freesound.org/s/847402/  Sheep - Lamb; Short Bleat
+bleat      https://freesound.org/s/669872/  bah bala oveja/baa bleat sheep.WAV
+bleat      https://freesound.org/s/171149/  sheep 3.mp3
+bleat      https://freesound.org/s/171151/  sheep 2.mp3
+bleat      https://freesound.org/s/171152/  sheep 1
+bleat      https://freesound.org/s/669765/  Sheep baa
+bleat      https://freesound.org/s/710300/  Sheep baaing 5 - Norwegian sheep expressing itself concisely
+bleat      https://freesound.org/s/677221/  Ewe baa
+pop        https://freesound.org/s/721073/  A soft mouth pop
+pop        https://freesound.org/s/721074/  Tongue pop
+pop        https://freesound.org/s/188381/  3 Popping Pops
+pat        https://freesound.org/s/513428/  Pat cloth
+pat        https://freesound.org/s/371035/  Pat on the shoulder.wav
+rustle     https://freesound.org/s/538152/  Game Rustle Leaves
+rustle     https://freesound.org/s/178615/  The Rustle of a Bush
+rustle     https://freesound.org/s/764900/  VEGEMisc-Ext._Bush Rustle_JvZ_OwSFX
+drop       https://freesound.org/s/273870/  water drop 1.aif
+drop       https://freesound.org/s/257349/  small water drops
+chime      https://freesound.org/s/858637/  Glockenspiel Jingles
+chime      https://freesound.org/s/348924/  Glockenspiel_46_f4_04
+chime      https://freesound.org/s/609536/  Glockenspiel
+thump      https://freesound.org/s/872227/  Soft Impact - Pillow Hit
+whirr      https://freesound.org/s/585850/  17 Pinwheel.m4a
+nudge      https://freesound.org/s/371035/  Pat on the shoulder.wav
+munch      https://freesound.org/s/79243/  Apple Biting and Chewing.wav
+stone      https://freesound.org/s/734669/  Stone - Throwing pebbles
+tap        https://freesound.org/s/567863/  Finger - slide - wood - tap 2.wav
+flap       https://freesound.org/s/450831/  flag plastic garbage bag flap quick in wind2.wav
+whoosh     https://freesound.org/s/391449/  Ukulele Whoosh 3.wav
+splash     https://freesound.org/s/867456/  Waboba Moon Ball Water Splash 1
+quack      https://freesound.org/s/719115/  Ducks Quacking To Each Other
+tweet      https://freesound.org/s/330325/  Tweets
+flutter    https://freesound.org/s/655322/  bird wings flapping.wav
+fluff      https://freesound.org/s/489068/  Fast Blanket Shaking
+branch     https://freesound.org/s/672572/  Tree Branch.wav
+door       https://freesound.org/s/681419/  small door
+knock      https://freesound.org/s/635282/  soft knocks on door
+amb_wind   https://freesound.org/s/639459/  summer meadow with wind
+amb_birds  https://freesound.org/s/847380/  Springtime birdsong with soft wind ambiance
+amb_birds  https://freesound.org/s/466072/  BIRDS IN COUNTRYSIDE – 1
+amb_river  https://freesound.org/s/637960/  water river stream creek close soft good detail.flac
+amb_river  https://freesound.org/s/829672/  Water Flowing Down Creek Stream
