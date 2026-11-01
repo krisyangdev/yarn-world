@@ -121,13 +121,15 @@ function adaptPixelRatio(dt) {
 	resize();
 }
 
-// 左上角显示帧率和当前像素比，每 0.5 秒刷新
+// ?debug=1：左上角显示帧率和当前像素比，每 0.5 秒刷新
+const debug = params.get('debug') === '1';
 const hud = document.createElement('div');
 hud.style.cssText = 'position:fixed;top:10px;left:10px;padding:4px 8px;border-radius:6px;background:rgba(0,0,0,.55);color:#fff;font:12px/1.4 ui-monospace,monospace;pointer-events:none';
-document.body.appendChild(hud);
+if (debug) document.body.appendChild(hud);
 let hudFrames = 0;
 let hudTime = 0;
 function updateHud(dt) {
+	if (!debug) return;
 	hudFrames++;
 	hudTime += dt;
 	if (hudTime < 0.5) return;
@@ -217,4 +219,4 @@ addEventListener('keydown', (e) => {
 });
 
 // ?debug=1 把渲染对象挂到 window 上，方便在控制台里量性能
-if (params.get('debug') === '1') Object.assign(window, { THREE, world, audioGraph, isMuted, renderer, scene, camera, composer, bokeh, sun, controls, focusTargets });
+if (debug) Object.assign(window, { THREE, world, audioGraph, isMuted, renderer, scene, camera, composer, bokeh, sun, controls, focusTargets });
