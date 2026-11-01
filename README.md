@@ -4,7 +4,7 @@ A small knitted island you can play with in the browser, built with three.js. Ev
 
 **Live:** [yarn.krisyang.dev](https://yarn.krisyang.dev)
 
-![Yarn World](public/og.jpg)
+![Pulling the thread knits the island out of the yarn ball](docs/intro.webp)
 
 ## How to play
 
